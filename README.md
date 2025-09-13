@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NathanDeve
 - 👀 I’m interested in back end
-- 🌱 I’m currently learning HTML,Javascript and CSS
-- 💞️ I’m looking to collaborate on Web pages
+- 🌱 I’m currently learning C and Python
+- 💞️ I’m looking to collaborate to all projects
 - 📫 How to reach me big companies
 
 <!---
