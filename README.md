@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  <font color="#c70000">🐍 A Fome das Sombras (Contribuições)</font>
+  <font color="#c70000">A Fome das Sombras (Contribuições)</font>
 </h3>
 
 <p align="center">
