@@ -4,9 +4,7 @@
 
 ---
 
-### 📜 As Runas do Meu Poder (Linguagens)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeve&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=8b0000&text_color=a9a9a9&icon_color=8b0000&bg_color=0d1117" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeve&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=8b0000&text_color=a9a9a9&icon_color=8b0000&bg_color=0d1117&custom_title=📜%20As%20Runas%20do%20Meu%20Poder" alt="As Runas do Meu Poder" />
 </p>
 
