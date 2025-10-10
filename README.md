@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef42c2dc-b9db-42b9-9f37-e806418fdff2/dgtisvk-54e17291-b3e9-4abf-bedd-2fd2e8ab2a91.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lZjQyYzJkYy1iOWRiLTQyYjktOWYzNy1lODA2NDE4ZmRmZjIvZGd0aXN2ay01NGUxNzI5MS1iM2U5LTRhYmYtYmVkZC0yZmQyZThhYjJhOTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iDGREHhrlJD8hy_QgOMqaG55Zi4AENSxLT52NiTeNw0" alt="Banner Gótico Animado" />
+  <img src="https://i.pinimg.com/originals/5c/9c/cc/5c9ccc243a890dd364784851c534a8bf.gif" alt="Banner Gótico Animado" />
 </p>
