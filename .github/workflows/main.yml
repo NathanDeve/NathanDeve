@@ -1,0 +1,40 @@
+# Nome da Action: Gera a animação da serpente de contribuições
+name: Generate Snake Animation
+
+on:
+  # Isso faz a Action rodar automaticamente todo dia às 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Isso permite que você rode a Action manualmente quando quiser
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Passo 1: Puxa o código do seu repositório
+      - uses: actions/checkout@v2
+
+      # Passo 2: Roda a mágica que gera a serpente!
+      - uses: Platane/snk@v3
+        with:
+          # Pega seu nome de usuário do GitHub automaticamente
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Define os arquivos de saída (a imagem da serpente)
+          # A primeira linha é para o tema claro, a segunda para o escuro. Vamos usar a escura.
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=c70000
+
+      # Passo 3: Envia a imagem gerada para um branch chamado "output"
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          # Token secreto para permitir que a Action escreva no seu repositório
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
