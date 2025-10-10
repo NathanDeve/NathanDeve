@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/95/db/bf/95dbbf01553e0a04cff20402e06ed1f1.gif" alt="Banner Gótico Animado" />
+  <img src="https://i.pinimg.com/originals/95/db/bf/95dbbfb1553ee9a04cff20402ae86ed1.gif" alt="Banner Gótico Animado" />
 </p>
 
 <p align="center">
