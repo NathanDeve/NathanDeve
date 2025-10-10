@@ -17,5 +17,5 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake-dark.svg" alt="Animação de Cobra de Commits"/>
+  <img src="https://raw.githubusercontent.com/NathanDeve/NathanDeve/output/github-contribution-grid-snake-dark.svg" alt="Animação de Cobra de Commits"/>
 </p>
