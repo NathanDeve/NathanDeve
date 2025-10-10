@@ -14,8 +14,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Passo 1: Puxa o código do seu repositório
-      - uses: actions/checkout@v2
+      # Passo 1: Puxa o código do seu repositório (versão atualizada)
+      - uses: actions/checkout@v4
 
       # Passo 2: Roda a mágica que gera a serpente!
       - uses: Platane/snk@v3
@@ -24,14 +24,14 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           
           # Define os arquivos de saída (a imagem da serpente)
-          # A primeira linha é para o tema claro, a segunda para o escuro. Vamos usar a escura.
+          # A cor da cobra está definida aqui como um vermelho-Alucard
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=c70000
 
-      # Passo 3: Envia a imagem gerada para um branch chamado "output"
+      # Passo 3: Envia a imagem gerada para um branch chamado "output" (versão atualizada)
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
