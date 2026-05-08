@@ -6,14 +6,18 @@
   />
 </p>
 
+<h3 align="center">
+  📜 As Runas do Meu Poder
+</h3>
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeve&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=8b0000&text_color=a9a9a9&icon_color=8b0000&bg_color=0d1117&custom_title=%F0%9F%93%9C%20As%20Runas%20do%20Meu%20Poder" 
-    alt="As Runas do Meu Poder"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeve&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=ff0000&text_color=a9a9a9&icon_color=ff0000&bg_color=0d1117" 
+    alt="Linguagens Mais Usadas"
   />
 </p>
 
-<h3 align="center" style="color:#c70000;">
+<h3 align="center">
   A Fome das Sombras (Contribuições)
 </h3>
 
