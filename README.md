@@ -11,8 +11,8 @@
 </h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeve&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=ff0000&text_color=a9a9a9&icon_color=ff0000&bg_color=0d1117" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanDeve&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=ff0000&text_color=a9a9a9&icon_color=ff0000&bg_color=0d1117"
     alt="Linguagens Mais Usadas"
   />
 </p>
